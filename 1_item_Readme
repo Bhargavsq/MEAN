@@ -1,0 +1,6 @@
+--
+npm i express mongoose path cors body-parser
+
+for run code
+--
+npm start
